@@ -35,7 +35,7 @@ If you use this prompt in your research or educational activities, please cite t
 > **DOI:** [https://doi.org/10.1007/s40670-025-02625-z](https://doi.org/10.1007/s40670-025-02625-z)
 
 ## 📜 License
-This specific prompt and its documentation are licensed under [**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**](https://creativecommons.org/licenses/by-nc-sa/4.0/)*. See [LICENCE.md](../LICENSE.md) for details). 
+This specific prompt and its documentation are licensed under [**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**](https://creativecommons.org/licenses/by-nc-sa/4.0/)*. See [LICENCE.md](/LICENSE.md) for details). 
 
 ---
 *Please refer to the contact information in the associated publication for inquiries regarding the research or collaboration.*
